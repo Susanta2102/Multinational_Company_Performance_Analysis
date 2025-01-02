@@ -42,24 +42,7 @@
 - **Libraries:** Pandas, Matplotlib, Seaborn  
 - **Tools:** Power BI, JupyterLab, GitHub  
 
----
 
-## **Installation**
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/EclipseAnalytics/Data-Analyst-Portfolio.git
-   cd Data-Analyst-Portfolio/Multinational_Company_Performance_Analysis
-   ```
-
-2. Install Python dependencies:  
-   ```bash
-   pip install pandas matplotlib seaborn
-   ```
-
-3. Download and install Power BI Desktop from [Microsoft Power BI](https://powerbi.microsoft.com/).
-
----
 
 ## **Usage**
 
